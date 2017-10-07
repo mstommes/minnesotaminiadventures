@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "TuttiFrutti",
+            "street": "1234 some street",
+            "city": "Sauk Centre",
+            "rating": 5,
+            "expenseLevel": 2,
+            "imageUrl": "someimageurl",
+            "website": "https://somewebsite.com",
+            "comments": "Make sure you try the apple pie"
+        },
+        {
+            "id": 2,
+            "name": "Chester Creek Cafe",
+            "street": "1234 some street",
+            "city": "Duluth",
+            "rating": 5,
+            "expenseLevel": 4,
+            "imageUrl": "someimageurl",
+            "website": "https://somewebsite.com",
+            "comments": "Breakfast is the best!"
+        } 
+    ]
+}

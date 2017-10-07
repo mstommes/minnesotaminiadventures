@@ -1,0 +1,23 @@
+{
+    "oneDayAventures":{
+        "description":"String",
+        "directions": "String",
+        "timeNeeded": "String",
+        "images":[{
+            "imageOne":"String",
+            "imageTwo":"String"
+        }],
+        "advisories": "String",
+        "bestTimeOfYear": "String",
+        "region":"String"
+    },
+    "twoDayAventures": {
+
+    },
+    "threeDayAventures":{
+
+    },
+    "noLongerMiniAdventures":{
+
+    }
+}
