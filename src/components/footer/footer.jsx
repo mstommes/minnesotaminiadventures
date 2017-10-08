@@ -3,14 +3,13 @@ import ReactDOM from 'react-dom';
 
 
 class Footer extends React.Component{
-  constructor(){
-    super();
-
-  }
   render(){
+    let date = new Date();
+    let currentYear = date.getFullYear();
     return (
-      <div>Copyright Minnesota Mini Adventures 2017</div>
+      <div>&copy; Minnesota Mini Adventures { currentYear }</div>
     );
   }
 }
 export default Footer;
+ 

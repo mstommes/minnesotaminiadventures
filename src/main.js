@@ -1,12 +1,11 @@
 import css from './styles.css'
-import Footer from './components/footer/footer.jsx'
-import Header from './components/header/header.jsx'
+import App from './components/App.jsx'
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-    <Header />,
+    <App />,
     document.getElementById('root')
   );
   
